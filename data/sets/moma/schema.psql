@@ -1,0 +1,11 @@
+create table artists (
+  momaId        integer,
+  namem         varchar(40),
+  bio           varchar(40),
+  nationality   varchar(40),
+  gender        varchar(40),
+  born          integer,
+  died          integer,
+  wikiQid       varchar(40),
+  ulan          varchar(40)
+)
